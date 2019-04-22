@@ -1,0 +1,26 @@
+{
+  "name": "string-of-pearls",
+  "version": "1.0.0",
+  "description": "An \"all-things-strings\" library to help your workflow and automate the boring stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinbeaufort/string-of-pearls.git"
+  },
+  "keywords": [
+    "strings",
+    "javascript",
+    "library",
+    "string",
+    "html"
+  ],
+  "author": "Austin Beaufort and",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinbeaufort/string-of-pearls/issues"
+  },
+  "homepage": "https://github.com/austinbeaufort/string-of-pearls#readme"
+}
