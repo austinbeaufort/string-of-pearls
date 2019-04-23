@@ -20,7 +20,7 @@ const stringHelpers = {
 }
 
 
-
+module.exports(stringHelpers);
 
 
 
