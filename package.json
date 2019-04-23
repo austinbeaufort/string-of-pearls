@@ -1,6 +1,6 @@
 {
   "name": "string-of-pearls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An \"all-things-strings\" library to help your workflow and automate the boring stuff.",
   "main": "index.js",
   "scripts": {
