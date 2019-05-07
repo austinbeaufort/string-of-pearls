@@ -65,7 +65,7 @@ p.onlyVowels() takes in a string and returns only the vowels of the string.
 p.onlyVowels("pearl") // => "ea"
 p.onlyVowels('Tuxedo Junction') // => "ueouio"
 ```
-  #### p.onlyLetters() 
+#### p.onlyLetters() 
 p.onlyLetters() takes in a string and returns only the letters of the string.
 ```javascript
 p.onlyLetters("Pennsylvania 6-5000") // => "Pennsylvania"
