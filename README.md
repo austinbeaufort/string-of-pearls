@@ -48,18 +48,18 @@ popFront() just feels more intuitive than shift() , just an opinion..
 ```javascript
 p.pop("pearl") // =>"pear"
 ```
-  #### p.isPalindrome() 
+#### p.isPalindrome() 
 p.isPalindrome() takes in a word as an argument and returns true if it is a palindrome, false if not. Capitalization is ignored.
 ```javascript
 p.isPalindrome("kalimazoo") // => false
 p.isPalindrome('kayak') // => true
 ```
-  #### p.reverse() 
+#### p.reverse() 
 p.reverse() takes in a word or string as an argument and reverses the letters.
 ```javascript
 p.reverse("stardust") // => "tsudrats"
 ```
-  #### p.onlyVowels() 
+#### p.onlyVowels() 
 p.onlyVowels() takes in a string and returns only the vowels of the string.
 ```javascript
 p.onlyVowels("pearl") // => "ea"
@@ -70,22 +70,22 @@ p.onlyLetters() takes in a string and returns only the letters of the string.
 ```javascript
 p.onlyLetters("Pennsylvania 6-5000") // => "Pennsylvania"
 ```
-  #### p.stripVowels() 
+#### p.stripVowels() 
 p.stripVowels() takes in a string and returns only the consonants of the string.
 ```javascript
 p.stripVowels("String of Pearls") // => "StrngfPrls"
 ```
-  #### p.onlyDigits() 
+#### p.onlyDigits() 
 p.onlyDigits() takes in a string and returns only the digits of the string.
 ```javascript
 p.onlyLetters("Pennsylvania 6-5000") // => "6500"
 ```
-  #### p.stripDigits() 
+#### p.stripDigits() 
 p.onlyDigits() takes in a string and returns the string without digits.
 ```javascript
 p.onlyLetters("abc123") // => "abc"
 ```
-  #### p.stripWhiteSpace() 
+#### p.stripWhiteSpace() 
 p.stripWhiteSpace() takes in a string and returns the string without white space.
 ```javascript
 p.onlyLetters("abc123") // => "abc"
