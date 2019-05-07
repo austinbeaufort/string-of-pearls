@@ -24,7 +24,7 @@ var  p = require('string-of-pearls');
 
 ```
 
-Usage:
+## Usage:
 #### p.capWord()
 capWord() takes in a word as an argument and returns the word capitalized.
 ```javascript
