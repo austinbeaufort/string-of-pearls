@@ -21,7 +21,7 @@ In Node.js:
 ```javascript
 
 var  p = require('string-of-pearls');
-
+g
 ```
 
 ## Usage:
@@ -46,7 +46,7 @@ p.pop("pearl") // =>"pear"
 p.popFront() takes in a word as an argument and removes the first character of the word.
 popFront() just feels more intuitive than shift() , just an opinion..
 ```javascript
-p.pop("pearl") // =>"pear"
+p.popFront("pearl") // =>"pear"
 ```
 #### p.isPalindrome() 
 p.isPalindrome() takes in a word as an argument and returns true if it is a palindrome, false if not. Capitalization is ignored.
@@ -88,5 +88,5 @@ p.onlyLetters("abc123") // => "abc"
 #### p.stripWhiteSpace() 
 p.stripWhiteSpace() takes in a string and returns the string without white space.
 ```javascript
-p.onlyLetters("abc123") // => "abc"
+p.stripWhiteSpace("   Pe   nn   sy   lva   nia ") // => "Pennsylvania"
 ```
